@@ -7,4 +7,4 @@ Requires:
   
 Usage:
 
-  bash hashchecker_apikey.sh \<api key file> \<hash list>
+	bash hashchecker_apikey.sh <api key file> <hash list>
